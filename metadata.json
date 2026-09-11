@@ -1,0 +1,6 @@
+{
+  "name": "SharFlow Website Watchdog",
+  "description": "AI-powered website watchdog, anomaly detection, and actionable intelligence for small e-commerce businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
